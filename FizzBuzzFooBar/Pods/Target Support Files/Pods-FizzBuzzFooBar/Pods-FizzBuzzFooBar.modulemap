@@ -1,0 +1,6 @@
+framework module Pods_FizzBuzzFooBar {
+  umbrella header "Pods-FizzBuzzFooBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
